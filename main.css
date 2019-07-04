@@ -1,7 +1,18 @@
 body{
-   background: red;
+   background: #f1dada;
+   text-align: center;
 }
 h1 {
    background-color: #607d8b;
    color: #ffffff;
+   text-align: center;
+   
 }
+ p {
+    text-align: center;
+ }
+ image {
+     position: absolute;
+     padding-top: 25px;
+     padding-bottom: 20px;
+ }
