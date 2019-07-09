@@ -1,5 +1,5 @@
 body{
-   background: #f1dada;
+   background: #bfb9b900;
    text-align: center;
 }
 h1 {
@@ -35,3 +35,10 @@ h2 {
     width: 100px;
 }  
 
+p {
+   position: absolute;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 50px;
+   /*color:green;*/
+   /*background: yellowgreen;*/
+}
