@@ -30,12 +30,11 @@ image {
    border-radius: 20%;
    filter: absolute(opacity=0);
 
-  /* img:hover {
+     /*img:hover {
       opacity: 0.5;
-      filter: alpha(opacity=50); /* For IE8 and earlier */
+      filter: alpha(opacity=50); /* For IE8 and earlier 
     }*/
-}
-h2 {
+   .h2 
     position: absolute;
     padding-left: 100px;
     padding-top: 200px; 
@@ -44,7 +43,7 @@ h2 {
     font-family: serif;
     width: 100px;
 
-}  
+
 
 p {
    position: absolute;
@@ -67,3 +66,5 @@ p {
    opacity: 0.4;
    }*/
 
+   Lenaustraße 4
+   12047 Berlin
